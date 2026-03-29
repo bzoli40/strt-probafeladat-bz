@@ -2,6 +2,8 @@
 
 Ez egy egyszerű, valós idejű üzenőfal alkalmazás, amely lehetővé teszi üzenetek rögzítését, listázását és törlését. A projekt a modern webes technológiák (React, Vite, Supabase, Vercel) integrációját hivatott bemutatni.
 
+Az AI-val történő beszélgetés linkje: https://gemini.google.com/share/e0d3fefa6b7a
+
 ## 🚀 Technológiai Stack
 
 *   **Frontend:** [React.js](https://reactjs.org/) (TypeScript + Vite)
